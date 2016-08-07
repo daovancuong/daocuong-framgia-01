@@ -3,7 +3,7 @@ public class address {
 	private String street;
 	private String city;
 	private String count;
-	private String comment;
+	private String comment;//mission 8///sdfgsdfgsdfg
 	public String getStreet() {
 		return street;
 	}
