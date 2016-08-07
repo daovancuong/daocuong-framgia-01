@@ -2,7 +2,7 @@
 public class address {
 	private String street;
 	private String city;
-	private String count;
+	private String count;//mission-7-change file to create amend
 	private String comment;
 	public String getStreet() {
 		return street;
