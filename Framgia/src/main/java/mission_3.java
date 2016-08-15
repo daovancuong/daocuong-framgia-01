@@ -1,7 +1,17 @@
 
 public class mission_3 {
 public void hello(){
-systemout.print("from onther");
+
+System.out.println("mission 3 ediit");
+System.out.println("mission 3 ediit");
+System.out.println("mission 3 ediit");
+System.out.println("mission 3 ediit");
+System.out.println("mission 3 ediit");
+System.out.println("mission 3 ediit");
+System.out.println("mission 3 ediit");
+System.out.println("mission 3 ediit");
+System.out.println("mission 4 ediit");
+
 	
 }
 }
